@@ -1,1 +1,2 @@
-# OTIS
+# OTIS 
+Tverdokhliebov-Vladyslav - DTEU 
